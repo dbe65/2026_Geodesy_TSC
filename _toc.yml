@@ -5,7 +5,6 @@ format: jb-book
 root: intro
 parts:
 - caption: Day 1
-  chapters:
 - caption: Day 2
   chapters:
   - file: notebooks/day2_fault_displacement
